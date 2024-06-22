@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Mehulsingh1010/leetcode/tree/master/0319-bulb-switcher) |
 # Binary Search
 |  |
 | ------- |
@@ -48,3 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehulsingh1010/leetcode/tree/master/0238-product-of-array-except-self) |
+# Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Mehulsingh1010/leetcode/tree/master/0319-bulb-switcher) |
