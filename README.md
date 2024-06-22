@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehulsingh1010/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Mehulsingh1010/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 # Hash Table
 |  |
 | ------- |
