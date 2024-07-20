@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
