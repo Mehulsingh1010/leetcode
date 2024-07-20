@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mehulsingh1010/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mehulsingh1010/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehulsingh1010/leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mehulsingh1010/leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
