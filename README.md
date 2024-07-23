@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mehulsingh1010/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mehulsingh1010/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mehulsingh1010/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mehulsingh1010/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
