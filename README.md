@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mehulsingh1010/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mehulsingh1010/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mehulsingh1010/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mehulsingh1010/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
