@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
