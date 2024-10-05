@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mehulsingh1010/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mehulsingh1010/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mehulsingh1010/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mehulsingh1010/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mehulsingh1010/leetcode/tree/master/0053-maximum-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mehulsingh1010/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mehulsingh1010/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mehulsingh1010/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mehulsingh1010/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
