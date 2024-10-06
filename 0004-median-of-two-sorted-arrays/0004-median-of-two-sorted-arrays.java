@@ -11,10 +11,8 @@ class Solution {
         Arrays.sort(combined);
         int length=combined.length;
         if (length % 2 == 0) {
-            // If even, return the average of the two middle elements
             return (combined[length / 2 - 1] + combined[length / 2]) / 2.0;
         } else {
-            // If odd, return the middle element
             return combined[length / 2];
         }
     }
