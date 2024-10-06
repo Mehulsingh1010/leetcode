@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehulsingh1010/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mehulsingh1010/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Mehulsingh1010/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mehulsingh1010/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mehulsingh1010/leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Mehulsingh1010/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mehulsingh1010/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
