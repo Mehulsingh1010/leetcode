@@ -1,14 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int range = nums.length;
-        int acsum=(range*(range+1))/2;
+       int n = nums.length;
+        int expectedSum = n * (n + 1) / 2; // Sum of first n natural numbers
+        int actualSum = 0;
 
-        int cursum=0;
-        for(int i=0;i<nums.length;i++){
-            cursum=cursum+nums[i];
+        for (int num : nums) {
+            actualSum += num; // Calculate the sum of the array elements
         }
-        int ans=acsum-cursum;
-        return ans;
-        
+
+        return expectedSum - actualSum; 
     }
 }
