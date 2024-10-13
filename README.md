@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehulsingh1010/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mehulsingh1010/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Union Find
 |  |
 | ------- |
