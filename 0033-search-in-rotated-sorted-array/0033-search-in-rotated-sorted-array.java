@@ -1,21 +1,25 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        
-        // Binary search logic
-        while (left <= right) {
-            int mid = left + (right - left) / 2; // To avoid overflow
-            
-            if (nums[mid] == target) {
-                return mid; // Target found, return index
-            } else if (nums[mid] < target) {
-                left = mid + 1; // Search the right half
-            } else {
-                right = mid - 1; // Search the left half
+      int start=0;
+      int end=nums.length-1;
+      int ans=0;
+      while(start<=end){
+        int mid=(start+end)/2;
+        if(nums[mid]==target){return mid;}
+        else if(nums[start]<=nums[mid]){
+            if(target>=nums[start] && target<nums[mid]){
+                end=mid-1;
+            }else{
+                start=mid+1;
+            }
+        }else{//=
+            if(target>=nums[mid] && target<=nums[end]){
+                start=mid+1;
+            }else{
+                end=mid-1;
             }
         }
-        
-        return -1; // If target is not found, return -1
+      }  
+      return -1;
     }
 }
