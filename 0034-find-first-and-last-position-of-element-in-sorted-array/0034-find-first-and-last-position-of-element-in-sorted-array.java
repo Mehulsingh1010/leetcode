@@ -1,25 +1,29 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] result = {-1, -1}; // Default result if target is not found
-
-        // Find the starting position
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                result[0] = i; // Found the starting index
-                break; // Exit the loop once the first occurrence is found
+        int[] result = {-1, -1};
+        
+        // Handle edge case for single-element array
+        if (nums.length == 1) {
+            if (target == nums[0]) {
+                result[0] = 0;
+                result[1] = 0;
             }
-        }
-
-        // If target was not found, return [-1, -1]
-        if (result[0] == -1) {
             return result;
         }
 
-        // Find the ending position
-        for (int j = nums.length - 1; j >= 0; j--) {
-            if (nums[j] == target) {
-                result[1] = j; // Found the ending index
-                break; // Exit the loop once the last occurrence is found
+        // Find the first occurrence
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == target) {
+                result[0] = i;
+                break;
+            }
+        }
+
+        // Find the last occurrence
+        for (int y = nums.length - 1; y >= 0; y--) {
+            if (nums[y] == target) {
+                result[1] = y;
+                break;
             }
         }
 
