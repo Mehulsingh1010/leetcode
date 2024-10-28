@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mehulsingh1010/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Mehulsingh1010/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mehulsingh1010/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mehulsingh1010/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mehulsingh1010/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mehulsingh1010/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mehulsingh1010/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mehulsingh1010/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mehulsingh1010/leetcode/tree/master/0141-linked-list-cycle) |
