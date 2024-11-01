@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Mehulsingh1010/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Greedy
 |  |
 | ------- |
