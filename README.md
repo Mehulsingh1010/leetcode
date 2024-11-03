@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
+| [0812-rotate-string](https://github.com/Mehulsingh1010/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mehulsingh1010/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Mehulsingh1010/leetcode/tree/master/2580-circular-sentence) |
 ## Greedy
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mehulsingh1010/leetcode/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mehulsingh1010/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
