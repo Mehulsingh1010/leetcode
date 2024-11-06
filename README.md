@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mehulsingh1010/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mehulsingh1010/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Mehulsingh1010/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mehulsingh1010/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
