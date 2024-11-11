@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehulsingh1010/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2716-prime-subtraction-operation](https://github.com/Mehulsingh1010/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mehulsingh1010/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehulsingh1010/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Mehulsingh1010/leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2716-prime-subtraction-operation](https://github.com/Mehulsingh1010/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehulsingh1010/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2716-prime-subtraction-operation](https://github.com/Mehulsingh1010/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Mehulsingh1010/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Mehulsingh1010/leetcode/tree/master/1642-water-bottles) |
+| [2716-prime-subtraction-operation](https://github.com/Mehulsingh1010/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehulsingh1010/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mehulsingh1010/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Mehulsingh1010/leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
