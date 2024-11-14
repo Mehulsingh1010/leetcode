@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mehulsingh1010/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehulsingh1010/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mehulsingh1010/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mehulsingh1010/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mehulsingh1010/leetcode/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehulsingh1010/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mehulsingh1010/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mehulsingh1010/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mehulsingh1010/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
