@@ -1,20 +1,20 @@
 class Solution {
     public int minSwaps(String s) {
-        Stack<Character> stack=new Stack<>();
+        int open=0,close=0;
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch== '['){
-                stack.push(ch);
+                open++;
             }else{
-                if(stack.isEmpty() || stack.peek()== ']'){
-                    stack.push(ch);
+                if(open<=0){
+                    close++;
                 }
                 else{
-                    stack.pop();
+                    open--;
                 }
             }
         }
-        int total=stack.size();
+        int total=open+close;
         int count=total/2;
         return (count+1)/2;
     }
