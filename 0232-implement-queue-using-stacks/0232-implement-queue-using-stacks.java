@@ -1,37 +1,39 @@
 class MyQueue {
-     private Stack<Integer> main;
-     private Stack<Integer> helper;
-
+    Stack<Integer> input = new Stack<>();
+    Stack<Integer> output = new Stack<>();
     public MyQueue() {
-        main = new Stack<>();
-        helper = new Stack<>();
+        input=new Stack<>();
+        output=new Stack<>();
     }
-
+    
     public void push(int x) {
-
-        while(main.size()>0){
-            helper.push(main.pop());
-        }
-
-
-        main.push(x);
-
-        // add all elemets from helper to main -- helper ---> main
-
-        while(helper.size()>0){
-            main.push(helper.pop());
-        }
+        input.push(x);
     }
-
+    
     public int pop() {
-        return main.pop();
+        peek();
+        return output.pop();
     }
-
+    
     public int peek() {
-        return main.peek();
+         if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
+            }
+        }
+        return output.peek();
     }
-
+    
     public boolean empty() {
-        return main.size()==0;
+        return input.isEmpty() && output.isEmpty();
     }
 }
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
+ */
