@@ -1,40 +1,34 @@
 class MyStack {
-    private Queue<Integer> main;
-    private Queue<Integer> helper;
-
+    private Queue<Integer> queue;
     public MyStack() {
-        main = new LinkedList<>();
-        helper = new LinkedList<>();
+        queue=new LinkedList<>();
     }
-
+    
     public void push(int x) {
-    //   moving all elements from main to helper
-        while(main.size()>0){
-          helper.add(main.remove());
-        }
-    //   add x in main queue
-
-        main.add(x);
-    //   moving all elements from helper to main
-
-        while(helper.size()>0){
-            main.add(helper.remove());
+        queue.add(x);
+        for(int i=0;i<queue.size()-1;i++){
+            queue.add(queue.poll());
         }
     }
-
+    
     public int pop() {
-        return main.remove();
+        return queue.poll();
     }
-
+    
     public int top() {
-        return main.peek();
+        return queue.peek();
     }
-
+    
     public boolean empty() {
-        if(main.size()==0){
-            return true ;
-        }else{
-            return false;
-        }
+        return queue.isEmpty();
     }
 }
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
