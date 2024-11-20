@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mehulsingh1010/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mehulsingh1010/leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mehulsingh1010/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/Mehulsingh1010/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mehulsingh1010/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Mehulsingh1010/leetcode/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mehulsingh1010/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mehulsingh1010/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mehulsingh1010/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mehulsingh1010/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/Mehulsingh1010/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mehulsingh1010/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehulsingh1010/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehulsingh1010/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mehulsingh1010/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Mehulsingh1010/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Mehulsingh1010/leetcode/tree/master/0739-daily-temperatures) |
 ## String
 |  |
