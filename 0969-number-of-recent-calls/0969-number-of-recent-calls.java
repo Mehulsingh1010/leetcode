@@ -5,12 +5,11 @@ class RecentCounter {
     }
     
     public int ping(int t) {
-        que.offer(t);
+        que.add(t);
         while(que.peek() < t-3000){
             que.poll();
         }
         return que.size();
-    
     }
 }
 
