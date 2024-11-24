@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Mehulsingh1010/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mehulsingh1010/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mehulsingh1010/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mehulsingh1010/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mehulsingh1010/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mehulsingh1010/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mehulsingh1010/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mehulsingh1010/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mehulsingh1010/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mehulsingh1010/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehulsingh1010/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mehulsingh1010/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mehulsingh1010/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Mehulsingh1010/leetcode/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mehulsingh1010/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mehulsingh1010/leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Mehulsingh1010/leetcode/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mehulsingh1010/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
